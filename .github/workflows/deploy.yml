@@ -2,10 +2,17 @@ name: Deploy to GitHub Pages
 
 # Publishes the static site whenever main changes (including the data commits made
 # by the capture workflow) or on manual dispatch.
+#
+# Note: commits pushed by the capture workflow use GITHUB_TOKEN, which by design does
+# NOT trigger the `push` event here. The `workflow_run` trigger below ensures the site
+# redeploys after every capture run so cron-committed data goes live.
 on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_run:
+    workflows: ['Capture NFL snapshot']
+    types: [completed]
 
 permissions:
   contents: read
