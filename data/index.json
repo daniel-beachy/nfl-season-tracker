@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:01:04.465Z",
+  "generatedAt": "2026-06-23T20:19:43.062Z",
   "defaultSeason": 2026,
   "seasons": [
     {
@@ -9,7 +9,7 @@
       "started": false,
       "seasonStart": "2026-09-09",
       "snapshotCount": 1,
-      "lastUpdated": "2026-06-23T20:01:03.569Z"
+      "lastUpdated": "2026-06-23T20:19:42.778Z"
     },
     {
       "season": 2025,
