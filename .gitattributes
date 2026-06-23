@@ -1,0 +1,5 @@
+# Normalize line endings to LF so data committed by the Linux GitHub Action
+# doesn't churn against files edited on Windows/macOS.
+* text=auto eol=lf
+*.png binary
+*.ico binary

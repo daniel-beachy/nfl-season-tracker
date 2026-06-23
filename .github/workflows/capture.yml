@@ -1,0 +1,54 @@
+name: Capture NFL snapshot
+
+# Runs every Wednesday at 16:00 UTC (late morning US) — values are most stable the day
+# before Thursday Night Football kicks off the next week. In-season this records a weekly
+# snapshot; in the offseason/preseason the snapshot key is monthly, so repeat Wednesday
+# runs in the same month simply refresh that month's single data point.
+on:
+  schedule:
+    - cron: '0 16 * * 3'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Override capture date (YYYY-MM-DD), for testing/backfill'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Capture snapshot
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            node scripts/capture.mjs --date "${{ github.event.inputs.date }}"
+          else
+            node scripts/capture.mjs
+          fi
+
+      - name: Commit & push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "data: capture NFL snapshot ($(date -u +%Y-%m-%d))"
+            git push
+          fi

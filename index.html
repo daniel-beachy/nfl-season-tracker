@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NFL Season Tracker</title>
+  <meta name="description" content="Track NFL playoff & championship projections and stat leaders over the season. Static, keyless, ESPN-sourced." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%88%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script src="assets/vendor/chart.umd.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <span class="brand-mark">🏈</span>
+      <div class="brand-text">
+        <h1>NFL Season Tracker</h1>
+        <p>Playoff &amp; championship outlook and statistical leaders, week over week.</p>
+      </div>
+    </div>
+    <div class="controls">
+      <label class="season-control">
+        <span>Season</span>
+        <select id="season-select" aria-label="Select season"></select>
+      </label>
+      <button id="theme-toggle" class="theme-toggle" type="button">🌙 Dark</button>
+    </div>
+  </header>
+
+  <div id="status" class="status-bar"></div>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="projections" role="tab">Projections</button>
+    <button class="tab" data-tab="leaders" role="tab">Stat Leaders</button>
+  </nav>
+
+  <div id="banners" class="banners"></div>
+
+  <main id="app">
+    <section id="panel-projections" class="panel" role="tabpanel"></section>
+    <section id="panel-leaders" class="panel hidden" role="tabpanel"></section>
+  </main>
+
+  <footer class="app-footer">
+    <p>
+      Static dashboard · data captured as JSON snapshots by a scheduled GitHub Action ·
+      sources: ESPN keyless endpoints (power index, leaders, team colors). No backend, no API keys.
+    </p>
+  </footer>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

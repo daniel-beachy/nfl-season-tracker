@@ -1,0 +1,311 @@
+{
+  "season": 2026,
+  "label": "2026",
+  "mocked": false,
+  "started": false,
+  "seasonStart": "2026-09-09",
+  "snapshots": [
+    {
+      "key": "2026-2026-06",
+      "label": "Jun 2026",
+      "date": "2026-06-23",
+      "week": null,
+      "phase": "offseason",
+      "capturedAt": "2026-06-23T20:01:03.569Z",
+      "projectionsSource": "2026-06-02T15:54Z",
+      "projections": {
+        "LAR": {
+          "projectedw": 11.09,
+          "projectedl": 5.857,
+          "probwindiv": 46,
+          "probmakeplayoffs": 81.8,
+          "probmaketitlegame": 24.7,
+          "probwintitle": 14.899999999999999,
+          "probmakeconfchamp": 38.6
+        },
+        "BUF": {
+          "projectedw": 10.723,
+          "projectedl": 6.22,
+          "probwindiv": 67.60000000000001,
+          "probmakeplayoffs": 84.89999999999999,
+          "probmaketitlegame": 19.900000000000002,
+          "probwintitle": 10.7,
+          "probmakeconfchamp": 35.9
+        },
+        "BAL": {
+          "projectedw": 10.769,
+          "projectedl": 6.179,
+          "probwindiv": 54.2,
+          "probmakeplayoffs": 82.5,
+          "probmaketitlegame": 18.2,
+          "probwintitle": 9.4,
+          "probmakeconfchamp": 32.9
+        },
+        "SEA": {
+          "projectedw": 10.278,
+          "projectedl": 6.665,
+          "probwindiv": 27.800000000000004,
+          "probmakeplayoffs": 69.1,
+          "probmaketitlegame": 12.8,
+          "probwintitle": 7.000000000000001,
+          "probmakeconfchamp": 23.799999999999997
+        },
+        "SF": {
+          "projectedw": 10.212,
+          "projectedl": 6.733,
+          "probwindiv": 26.1,
+          "probmakeplayoffs": 66.8,
+          "probmaketitlegame": 12.4,
+          "probwintitle": 6.800000000000001,
+          "probmakeconfchamp": 22.900000000000002
+        },
+        "GB": {
+          "projectedw": 9.983,
+          "projectedl": 6.955,
+          "probwindiv": 32.800000000000004,
+          "probmakeplayoffs": 63.3,
+          "probmaketitlegame": 9.2,
+          "probwintitle": 4.7,
+          "probmakeconfchamp": 19.3
+        },
+        "LAC": {
+          "projectedw": 9.656,
+          "projectedl": 7.286,
+          "probwindiv": 35.9,
+          "probmakeplayoffs": 65.10000000000001,
+          "probmaketitlegame": 9.3,
+          "probwintitle": 4.3999999999999995,
+          "probmakeconfchamp": 19
+        },
+        "DET": {
+          "projectedw": 10.366,
+          "projectedl": 6.58,
+          "probwindiv": 38.2,
+          "probmakeplayoffs": 68.4,
+          "probmaketitlegame": 10,
+          "probwintitle": 5.2,
+          "probmakeconfchamp": 20.9
+        },
+        "KC": {
+          "projectedw": 9.784,
+          "projectedl": 7.156,
+          "probwindiv": 38.2,
+          "probmakeplayoffs": 67.60000000000001,
+          "probmaketitlegame": 10.4,
+          "probwintitle": 4.9,
+          "probmakeconfchamp": 20.599999999999998
+        },
+        "PHI": {
+          "projectedw": 9.668,
+          "projectedl": 7.271,
+          "probwindiv": 44.5,
+          "probmakeplayoffs": 60.5,
+          "probmaketitlegame": 8.200000000000001,
+          "probwintitle": 4.1000000000000005,
+          "probmakeconfchamp": 18
+        },
+        "DAL": {
+          "projectedw": 9.002,
+          "projectedl": 7.94,
+          "probwindiv": 31.7,
+          "probmakeplayoffs": 48.1,
+          "probmaketitlegame": 5.2,
+          "probwintitle": 2.6,
+          "probmakeconfchamp": 12.2
+        },
+        "CIN": {
+          "projectedw": 9.965,
+          "projectedl": 6.974,
+          "probwindiv": 32.5,
+          "probmakeplayoffs": 69.19999999999999,
+          "probmaketitlegame": 8.5,
+          "probwintitle": 4,
+          "probmakeconfchamp": 18.4
+        },
+        "HOU": {
+          "projectedw": 9.164,
+          "projectedl": 7.77,
+          "probwindiv": 39.7,
+          "probmakeplayoffs": 57.9,
+          "probmaketitlegame": 7.3,
+          "probwintitle": 3.2,
+          "probmakeconfchamp": 15.1
+        },
+        "NE": {
+          "projectedw": 9.342,
+          "projectedl": 7.604,
+          "probwindiv": 30.599999999999998,
+          "probmakeplayoffs": 61.1,
+          "probmaketitlegame": 6.7,
+          "probwintitle": 2.7,
+          "probmakeconfchamp": 14.299999999999999
+        },
+        "DEN": {
+          "projectedw": 9.119,
+          "projectedl": 7.82,
+          "probwindiv": 24.4,
+          "probmakeplayoffs": 53.6,
+          "probmaketitlegame": 6.2,
+          "probwintitle": 2.6,
+          "probmakeconfchamp": 13.5
+        },
+        "CHI": {
+          "projectedw": 9.169,
+          "projectedl": 7.768,
+          "probwindiv": 19.400000000000002,
+          "probmakeplayoffs": 46.5,
+          "probmaketitlegame": 4.9,
+          "probwintitle": 2.3,
+          "probmakeconfchamp": 11
+        },
+        "JAX": {
+          "projectedw": 8.985,
+          "projectedl": 7.955,
+          "probwindiv": 34.9,
+          "probmakeplayoffs": 54,
+          "probmaketitlegame": 6.3,
+          "probwintitle": 2.9000000000000004,
+          "probmakeconfchamp": 13.3
+        },
+        "TB": {
+          "projectedw": 8.495,
+          "projectedl": 8.443,
+          "probwindiv": 41.199999999999996,
+          "probmakeplayoffs": 47.3,
+          "probmaketitlegame": 3.9,
+          "probwintitle": 1.6,
+          "probmakeconfchamp": 9.5
+        },
+        "MIN": {
+          "projectedw": 8.219,
+          "projectedl": 8.718,
+          "probwindiv": 9.6,
+          "probmakeplayoffs": 29.099999999999998,
+          "probmaketitlegame": 1.7000000000000002,
+          "probwintitle": 0.7000000000000001,
+          "probmakeconfchamp": 5
+        },
+        "IND": {
+          "projectedw": 8.138,
+          "projectedl": 8.795,
+          "probwindiv": 19.900000000000002,
+          "probmakeplayoffs": 35.8,
+          "probmaketitlegame": 2.4,
+          "probwintitle": 0.8,
+          "probmakeconfchamp": 5.8999999999999995
+        },
+        "WSH": {
+          "projectedw": 7.644,
+          "projectedl": 9.289,
+          "probwindiv": 12.2,
+          "probmakeplayoffs": 22.7,
+          "probmaketitlegame": 1.5,
+          "probwintitle": 0.7000000000000001,
+          "probmakeconfchamp": 4
+        },
+        "PIT": {
+          "projectedw": 8.383,
+          "projectedl": 8.553,
+          "probwindiv": 12.2,
+          "probmakeplayoffs": 38.5,
+          "probmaketitlegame": 3.1,
+          "probwintitle": 1.2,
+          "probmakeconfchamp": 7.000000000000001
+        },
+        "NYG": {
+          "projectedw": 7.679,
+          "projectedl": 9.262,
+          "probwindiv": 11.600000000000001,
+          "probmakeplayoffs": 22,
+          "probmaketitlegame": 1.2,
+          "probwintitle": 0.5,
+          "probmakeconfchamp": 3.3000000000000003
+        },
+        "ATL": {
+          "projectedw": 7.789,
+          "projectedl": 9.148,
+          "probwindiv": 27.400000000000002,
+          "probmakeplayoffs": 33.7,
+          "probmaketitlegame": 2.1999999999999997,
+          "probwintitle": 0.8999999999999999,
+          "probmakeconfchamp": 5.8999999999999995
+        },
+        "NO": {
+          "projectedw": 7.324,
+          "projectedl": 9.616,
+          "probwindiv": 19.3,
+          "probmakeplayoffs": 23.799999999999997,
+          "probmaketitlegame": 1.2,
+          "probwintitle": 0.4,
+          "probmakeconfchamp": 3.3000000000000003
+        },
+        "CAR": {
+          "projectedw": 6.666,
+          "projectedl": 10.277,
+          "probwindiv": 12.2,
+          "probmakeplayoffs": 15.8,
+          "probmaketitlegame": 0.7000000000000001,
+          "probwintitle": 0.2,
+          "probmakeconfchamp": 2.3
+        },
+        "TEN": {
+          "projectedw": 6.502,
+          "projectedl": 10.444,
+          "probwindiv": 5.6000000000000005,
+          "probmakeplayoffs": 12.4,
+          "probmaketitlegame": 1.0999999999999999,
+          "probwintitle": 0.5,
+          "probmakeconfchamp": 2.3
+        },
+        "LV": {
+          "projectedw": 5.885,
+          "projectedl": 11.06,
+          "probwindiv": 1.5,
+          "probmakeplayoffs": 6,
+          "probmaketitlegame": 0.2,
+          "probwintitle": 0,
+          "probmakeconfchamp": 0.5
+        },
+        "ARI": {
+          "projectedw": 4.973,
+          "projectedl": 11.983,
+          "probwindiv": 0.1,
+          "probmakeplayoffs": 1.2,
+          "probmaketitlegame": 0,
+          "probwintitle": 0,
+          "probmakeconfchamp": 0.1
+        },
+        "CLE": {
+          "projectedw": 5.78,
+          "projectedl": 11.171,
+          "probwindiv": 1.0999999999999999,
+          "probmakeplayoffs": 5.5,
+          "probmaketitlegame": 0.3,
+          "probwintitle": 0.1,
+          "probmakeconfchamp": 0.8999999999999999
+        },
+        "NYJ": {
+          "projectedw": 5.493,
+          "projectedl": 11.46,
+          "probwindiv": 1.2,
+          "probmakeplayoffs": 3.9,
+          "probmaketitlegame": 0.1,
+          "probwintitle": 0,
+          "probmakeconfchamp": 0.2
+        },
+        "MIA": {
+          "projectedw": 4.832,
+          "projectedl": 12.126,
+          "probwindiv": 0.6,
+          "probmakeplayoffs": 2.1,
+          "probmaketitlegame": 0.1,
+          "probwintitle": 0,
+          "probmakeconfchamp": 0.1
+        }
+      },
+      "leaders": {}
+    }
+  ],
+  "lastUpdated": "2026-06-23T20:01:03.569Z",
+  "phase": "offseason"
+}

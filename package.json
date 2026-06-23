@@ -1,0 +1,17 @@
+{
+  "name": "nfl-stats-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static NFL season tracker: playoff/championship projections and stat leaders over time, captured as JSON snapshots from ESPN keyless endpoints.",
+  "scripts": {
+    "capture": "node scripts/capture.mjs",
+    "mock:2025": "node scripts/generate-mock-2025.mjs",
+    "teams": "node scripts/build-teams.mjs",
+    "serve": "node scripts/dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

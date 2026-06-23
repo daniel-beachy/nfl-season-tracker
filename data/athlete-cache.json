@@ -1,0 +1,377 @@
+{
+  "12483": {
+    "name": "Matthew Stafford",
+    "shortName": "M. Stafford",
+    "pos": "QB"
+  },
+  "14958": {
+    "name": "Demario Davis",
+    "shortName": "D. Davis",
+    "pos": "LB"
+  },
+  "14979": {
+    "name": "Bobby Wagner",
+    "shortName": "B. Wagner",
+    "pos": "LB"
+  },
+  "16195": {
+    "name": "Tony Jefferson",
+    "shortName": "T. Jefferson",
+    "pos": "S"
+  },
+  "16800": {
+    "name": "Davante Adams",
+    "shortName": "D. Adams",
+    "pos": "WR"
+  },
+  "2574056": {
+    "name": "Kevin Byard",
+    "shortName": "K. Byard",
+    "pos": "S"
+  },
+  "2577417": {
+    "name": "Dak Prescott",
+    "shortName": "D. Prescott",
+    "pos": "QB"
+  },
+  "2976560": {
+    "name": "Danielle Hunter",
+    "shortName": "D. Hunter",
+    "pos": "DE"
+  },
+  "3043078": {
+    "name": "Derrick Henry",
+    "shortName": "D. Henry",
+    "pos": "RB"
+  },
+  "3046779": {
+    "name": "Jared Goff",
+    "shortName": "J. Goff",
+    "pos": "QB"
+  },
+  "3052587": {
+    "name": "Baker Mayfield",
+    "shortName": "B. Mayfield",
+    "pos": "QB"
+  },
+  "3117251": {
+    "name": "Christian McCaffrey",
+    "shortName": "C. McCaffrey",
+    "pos": "RB"
+  },
+  "3121023": {
+    "name": "Dallas Goedert",
+    "shortName": "D. Goedert",
+    "pos": "TE"
+  },
+  "3122132": {
+    "name": "Myles Garrett",
+    "shortName": "M. Garrett",
+    "pos": "DE"
+  },
+  "3126356": {
+    "name": "Marlon Humphrey",
+    "shortName": "M. Humphrey",
+    "pos": "CB"
+  },
+  "3693166": {
+    "name": "Josh Sweat",
+    "shortName": "J. Sweat",
+    "pos": "LB"
+  },
+  "3728281": {
+    "name": "Blake Cashman",
+    "shortName": "B. Cashman",
+    "pos": "LB"
+  },
+  "3843769": {
+    "name": "Donte Jackson",
+    "shortName": "D. Jackson",
+    "pos": "CB"
+  },
+  "3886598": {
+    "name": "Jauan Jennings",
+    "shortName": "J. Jennings",
+    "pos": "WR"
+  },
+  "3912547": {
+    "name": "Sam Darnold",
+    "shortName": "S. Darnold",
+    "pos": "QB"
+  },
+  "3915511": {
+    "name": "Joe Burrow",
+    "shortName": "J. Burrow",
+    "pos": "QB"
+  },
+  "3916387": {
+    "name": "Lamar Jackson",
+    "shortName": "L. Jackson",
+    "pos": "QB"
+  },
+  "3917792": {
+    "name": "Daniel Jones",
+    "shortName": "D. Jones",
+    "pos": "QB"
+  },
+  "3918298": {
+    "name": "Josh Allen",
+    "shortName": "J. Allen",
+    "pos": "QB"
+  },
+  "3929630": {
+    "name": "Saquon Barkley",
+    "shortName": "S. Barkley",
+    "pos": "RB"
+  },
+  "4035434": {
+    "name": "Devin White",
+    "shortName": "D. White",
+    "pos": "LB"
+  },
+  "4035631": {
+    "name": "Brian Burns",
+    "shortName": "B. Burns",
+    "pos": "LB"
+  },
+  "4036378": {
+    "name": "Jordan Love",
+    "shortName": "J. Love",
+    "pos": "QB"
+  },
+  "4038941": {
+    "name": "Justin Herbert",
+    "shortName": "J. Herbert",
+    "pos": "QB"
+  },
+  "4043130": {
+    "name": "Jordyn Brooks",
+    "shortName": "J. Brooks",
+    "pos": "LB"
+  },
+  "4047365": {
+    "name": "Josh Jacobs",
+    "shortName": "J. Jacobs",
+    "pos": "RB"
+  },
+  "4239993": {
+    "name": "Tee Higgins",
+    "shortName": "T. Higgins",
+    "pos": "WR"
+  },
+  "4239996": {
+    "name": "Travis Etienne Jr.",
+    "shortName": "T. Etienne Jr.",
+    "pos": "RB"
+  },
+  "4242335": {
+    "name": "Jonathan Taylor",
+    "shortName": "J. Taylor",
+    "pos": "RB"
+  },
+  "4243256": {
+    "name": "Devin Lloyd",
+    "shortName": "D. Lloyd",
+    "pos": "LB"
+  },
+  "4258173": {
+    "name": "Nico Collins",
+    "shortName": "N. Collins",
+    "pos": "WR"
+  },
+  "4360248": {
+    "name": "Kyle Pitts Sr.",
+    "shortName": "K. Pitts Sr.",
+    "pos": "TE"
+  },
+  "4360259": {
+    "name": "Nik Bonitto",
+    "shortName": "N. Bonitto",
+    "pos": "LB"
+  },
+  "4360310": {
+    "name": "Trevor Lawrence",
+    "shortName": "T. Lawrence",
+    "pos": "QB"
+  },
+  "4361307": {
+    "name": "Trey McBride",
+    "shortName": "T. McBride",
+    "pos": "TE"
+  },
+  "4361331": {
+    "name": "Jamien Sherwood",
+    "shortName": "J. Sherwood",
+    "pos": "LB"
+  },
+  "4361370": {
+    "name": "Chris Olave",
+    "shortName": "C. Olave",
+    "pos": "WR"
+  },
+  "4361423": {
+    "name": "Micah Parsons",
+    "shortName": "M. Parsons",
+    "pos": "DE"
+  },
+  "4361579": {
+    "name": "Javonte Williams",
+    "shortName": "J. Williams",
+    "pos": "RB"
+  },
+  "4361741": {
+    "name": "Brock Purdy",
+    "shortName": "B. Purdy",
+    "pos": "QB"
+  },
+  "4362628": {
+    "name": "Ja'Marr Chase",
+    "shortName": "J. Chase",
+    "pos": "WR"
+  },
+  "4362759": {
+    "name": "Nick Bolton",
+    "shortName": "N. Bolton",
+    "pos": "LB"
+  },
+  "4362847": {
+    "name": "Jaycee Horn",
+    "shortName": "J. Horn",
+    "pos": "CB"
+  },
+  "4362851": {
+    "name": "Ernest Jones IV",
+    "shortName": "E. Jones IV",
+    "pos": "LB"
+  },
+  "4372099": {
+    "name": "Aidan Hutchinson",
+    "shortName": "A. Hutchinson",
+    "pos": "DE"
+  },
+  "4374302": {
+    "name": "Amon-Ra St. Brown",
+    "shortName": "A. St. Brown",
+    "pos": "WR"
+  },
+  "4379399": {
+    "name": "James Cook III",
+    "shortName": "J. Cook III",
+    "pos": "RB"
+  },
+  "4426338": {
+    "name": "Bo Nix",
+    "shortName": "B. Nix",
+    "pos": "QB"
+  },
+  "4426354": {
+    "name": "George Pickens",
+    "shortName": "G. Pickens",
+    "pos": "WR"
+  },
+  "4426385": {
+    "name": "Zach Charbonnet",
+    "shortName": "Z. Charbonnet",
+    "pos": "RB"
+  },
+  "4426388": {
+    "name": "Jameson Williams",
+    "shortName": "J. Williams",
+    "pos": "WR"
+  },
+  "4426515": {
+    "name": "Puka Nacua",
+    "shortName": "P. Nacua",
+    "pos": "WR"
+  },
+  "4429160": {
+    "name": "De'Von Achane",
+    "shortName": "D. Achane",
+    "pos": "RB"
+  },
+  "4429168": {
+    "name": "Antonio Johnson",
+    "shortName": "A. Johnson",
+    "pos": "S"
+  },
+  "4429615": {
+    "name": "Zay Flowers",
+    "shortName": "Z. Flowers",
+    "pos": "WR"
+  },
+  "4429795": {
+    "name": "Jahmyr Gibbs",
+    "shortName": "J. Gibbs",
+    "pos": "RB"
+  },
+  "4429834": {
+    "name": "Cedric Gray",
+    "shortName": "C. Gray",
+    "pos": "LB"
+  },
+  "4430737": {
+    "name": "Kyren Williams",
+    "shortName": "K. Williams",
+    "pos": "RB"
+  },
+  "4430807": {
+    "name": "Bijan Robinson",
+    "shortName": "B. Robinson",
+    "pos": "RB"
+  },
+  "4430878": {
+    "name": "Jaxon Smith-Njigba",
+    "shortName": "J. Smith-Njigba",
+    "pos": "WR"
+  },
+  "4431005": {
+    "name": "Xavier Watts",
+    "shortName": "X. Watts",
+    "pos": "S"
+  },
+  "4431442": {
+    "name": "Tuli Tuipulotu",
+    "shortName": "T. Tuipulotu",
+    "pos": "LB"
+  },
+  "4431452": {
+    "name": "Drake Maye",
+    "shortName": "D. Maye",
+    "pos": "QB"
+  },
+  "4431611": {
+    "name": "Caleb Williams",
+    "shortName": "C. Williams",
+    "pos": "QB"
+  },
+  "4569465": {
+    "name": "Jack Campbell",
+    "shortName": "J. Campbell",
+    "pos": "LB"
+  },
+  "4569587": {
+    "name": "Wan'Dale Robinson",
+    "shortName": "W. Robinson",
+    "pos": "WR"
+  },
+  "4570470": {
+    "name": "Nahshon Wright",
+    "shortName": "N. Wright",
+    "pos": "CB"
+  },
+  "4685724": {
+    "name": "Will Anderson Jr.",
+    "shortName": "W. Anderson Jr.",
+    "pos": "DE"
+  },
+  "4875196": {
+    "name": "Byron Young",
+    "shortName": "B. Young",
+    "pos": "LB"
+  },
+  "4876017": {
+    "name": "Carson Schwesinger",
+    "shortName": "C. Schwesinger",
+    "pos": "LB"
+  }
+}
