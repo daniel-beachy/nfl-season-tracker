@@ -8,10 +8,10 @@
     {
       "key": "2026-2026-06",
       "label": "Jun 2026",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "week": null,
       "phase": "offseason",
-      "capturedAt": "2026-06-23T20:22:45.873Z",
+      "capturedAt": "2026-06-24T17:48:24.266Z",
       "projectionsSource": "2026-06-02T15:54Z",
       "projections": {
         "LAR": {
@@ -306,6 +306,6 @@
       "leaders": {}
     }
   ],
-  "lastUpdated": "2026-06-23T20:22:45.873Z",
+  "lastUpdated": "2026-06-24T17:48:24.266Z",
   "phase": "offseason"
 }
